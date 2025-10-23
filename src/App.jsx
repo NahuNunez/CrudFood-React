@@ -18,8 +18,6 @@ function App() {
     </main>
     <Footer></Footer>
     </BrowserRouter>
-    
-   
     </>
   )
 }
